@@ -1,4 +1,4 @@
-# GradeReportGenerator {Made by sidhantMalik}
+# GradeReportGenerator 
 
 A C# console tool that computes each student’s exam average, factors in extra‑credit work, and prints a neatly formatted grade report.
 
