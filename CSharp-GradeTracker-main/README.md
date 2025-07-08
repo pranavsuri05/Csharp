@@ -1,4 +1,4 @@
-# GradeTracker {MADE BY sidhantMalik}
+# GradeTracker 
 
 **GradeTracker** is a simple C# console application that calculates and displays students' final grades based on exam scores and extra credit. It averages the main exam scores, applies bonus points, and then determines a letter grade.
 
